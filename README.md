@@ -1,16 +1,17 @@
-# appflyer_demo_app
+# Flutter AppsFlyer demo app
 
-A demonstration project illustrating how to implement appflyer in your Flutter project.
+A demonstration project illustrating how to implement AppsFlyer in your Flutter project.
 
-## Getting Started
+You can read an article about this project, which is on Medium: https://medium.com/flutter-community/easiest-steps-to-build-a-face-filter-app-with-flutter-and-deep-ar-c020037d893d
 
-This project is a starting point for a Flutter application.
+<h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://cdn-images-1.medium.com/max/2400/1*wVBrcnVqPX3J_hj05caziw.png"  title="Flutter AppsFlyer demo app">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contact - Let's become friends
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://twitter.com/Promise_Amadi1">Twitter</a></br>
+<a href="https://github.com/Wizpna">Github</a></br>
+<a href="https://www.linkedin.com/in/promise-amadi-101759a1/">Linkedin</a></br>
+<a href="https://www.facebook.com/promise.nzubechi.amadi">Facebook</a>
+
