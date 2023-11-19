@@ -2,7 +2,7 @@
 
 A demonstration project illustrating how to implement AppsFlyer in your Flutter project.
 
-You can read an article about this project, which is on Medium: https://medium.com/flutter-community/easiest-steps-to-build-a-face-filter-app-with-flutter-and-deep-ar-c020037d893d
+You can read an article about this project, which is on Medium: https://medium.com/flutter-community/improve-app-downloads-by-integrating-appsflyer-in-your-flutter-app-3bc2451870e8
 
 <h4>If you find this repo helpful to you, please don't forget to star ⭐ the repo 😉, it's FREE. </h4>
 
